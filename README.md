@@ -1,1 +1,3 @@
-# turntaking
+# Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication
+
+This is the code repository of the experiments. This is a work in progress...
